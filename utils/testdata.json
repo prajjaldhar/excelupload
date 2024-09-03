@@ -1,0 +1,14 @@
+{
+  "id": "21",
+  "username": "Raj Shekar",
+  "useremail": "raj.shekar@gmail.com",
+  "password": "RajShekar1234",
+  "firstName": "Raj",
+  "lastName": "Shekar",
+  "role": "admin",
+  "gender": "Male",
+  "age": 28,
+  "city": "Tamil Nadu",
+  "salary": 3500000,
+  "skills": ["Kotlin", "JavaScript", "C++"]
+}
